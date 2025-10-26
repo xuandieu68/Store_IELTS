@@ -149,11 +149,117 @@ orientation (n) buổi định hướng\
 swimming pool: hồ bơi\
 coat: áo khoác\
 
+---
+# Unit 4 - dạng bài nối thông tin
+
+## HOUSEHOLD 
+assistant (n) trợ lý \
+set up (v) thiết lập, sắp xếp \
+counter (n) quầy \
+utensils (n) dụng cụ bếp\
+ forks: nĩa\
+knives: dao\
+spoons: thìa\
+washing dishes: rủa bát\
+treating injuries: điều trị vết thương\
+organizing food storage: sắp xếp kho thực phẩm\
+floor: sàn\
+dish : món ăn\
+plates : đĩa\
 
 
+## OTHERS
 
+usage (n) việc sử dụng\
+correct usage : cách dùng đúng\
+available (for) (adj) sẵn có (cho)\
+access (v) truy cập \
+ account: tài khoản\
+specific (adj) cụ thể\
+availability (n) tình trạng sẵn có \
+register (v) đăng ký \
+build up (v) tăng dần, tích lũy \
+peak hour (n) giờ cao điểm\
+overflown (adj) bị tràn, quá tải \
+sort (v) phân loại \
+proper (adj) đúng cách, phù hợp\
+efficiently (adv) một cách hiệu quả \
+keep track of (v) theo dõi \
+layout (n) bố cục, cách bố trí \
+grocery (n) tạp hóa, hàng tạp phẩm\
+walk around : di chuyển\
+bin: thùng rác\
+trash : rác\
+heavy Traffic : tắc nghẽn giao thông\
+carry: mang\
+Discount store: cửa hàng giảm giá\
+Convenience store: của hàng tiện lợi\
+High-end grocery store : của hàng cao cấp\
+free-flow : dòng chảy tự do\
+circular layout : bố cục hình tròn\
+straight-line: đường thẳng\
+storage: kho \
+triangle: tam giác \
+absolutely : thực ra\
+alright then: được thôi\
+that sounds perfect: oke\
+flip though it again : xem lại lần nữa\
+decide: quyết định\
+**definite**: chắc chắn\
+include : chọn, lựa chọn \
+cramped : nhỏ, chật hẹp\
+tiny : nhỏ xíu\
+nature-inspired vibe : cảm giác lấy cảm hứng từ thiên nhiên\
+high-quality: chất lượng cao\
+spacious: rộng rãi\
+overprice: định giá quá cao\
+Descriptions : mô tả \
+atmosphere: bầu không khí\
+hang out : đi chơi\
+decoration : trang trí \
+furniture : đồ nội thất\ 
+skeptical: nghi ngờ \
+cozy: ấm cúng\
+let's figure : hãy tìm hiểu \
+audience : khán giả \
+i get that : tôi hiểu mà\
+adolescence: thời thanh thiếu niên \
+identity: danh tính \
+it's a shame  :thật đáng tiếc\
+potatoes: khoai tây\
+smoothly(adv): mượt mà\
+empty : đổ \
+overflow: đầy\
+attention/ pay attention to : chú ý/ chú ý đến \
+recycling : việc tái chế\
+to avoid : tránh \
+make sure to + V : chắc chắn, đảm bảo làm gì \
+mop (v): lau dọn\
+piority : ưu tiên \
+afford to : chịu đựng , chịu nổi 
+handle: xử lý \
+supplies: vật tư \
+facing forward: hướng ra phía trước\
+expiry dates: ngày hết hạn\
+rely on you: dựa vào bạn\
+pace: nhịp độ\
+overwhelming: quá tải \
+keep up: tiếp tục cố gắng, theo kịp\
+equipment: thiết bị\
+schoolwork: công việc học tập\
+private space: không gian riêng tư \
+accommodate: đáp ứng \
+charging stations: trạm sạc\
+charging spot: điểm sạc\
+timer: bộ đém thời gian\
+counting down: giảm dần\
+reaches zero: đếm ngược về 0\
+unplug: rút ( dây sạc)\
+remind to: nhắc nhở\
+semester: kỳ học\
+please be mindful: xin hãy lưu ý, cẩn thận\
 
-
+ 
 
 
 
