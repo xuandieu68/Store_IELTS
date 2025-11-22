@@ -120,4 +120,171 @@
 | **Creating bonds**              | /krɪˈeɪtɪŋ bɒndz/               | Tạo ra sự gắn kết               |
 
 
+---
+# Unit 2 Home/ accommodation
+
+---
+
+## 🏡 Vocabulary List: Housing, Lifestyle & Environment
+
+| Word / Phrase | IPA | Vietnamese Meaning | Example Sentence |
+|---------------|-----|--------------------|-----------------|
+| two-storey house | /ˌtuː ˈstɔː.ri haʊs/ | nhà hai tầng | I live in a beautiful two-storey house. (Tôi sống trong một ngôi nhà hai tầng đẹp.) |
+| be located | /ləʊˈkeɪ.tɪd/ | nằm ở, tọa lạc tại | The hotel is located in the city center. (Khách sạn nằm ở trung tâm thành phố.) |
+| cozy | /ˈkəʊ.zi/ | ấm cúng | Her room is small but very cozy. (Phòng của cô ấy nhỏ nhưng rất ấm cúng.) |
+| spacious | /ˈspeɪ.ʃəs/ | rộng rãi | Their apartment is modern and spacious. (Căn hộ của họ hiện đại và rộng rãi.) |
+| comfortable | /ˈkʌm.fə.tə.bəl/ | thoải mái | This chair is soft and comfortable. (Chiếc ghế này mềm và thoải mái.) |
+| decoration | /ˌdek.əˈreɪ.ʃən/ | sự trang trí | I love the decoration in this house. (Tôi thích sự trang trí trong ngôi nhà này.) |
+| move to | /muːv tuː/ | chuyển đến | We plan to move to a new apartment soon. (Chúng tôi dự định chuyển đến căn hộ mới sớm.) |
+| within walking distance | /wɪˈðɪn ˈwɔː.kɪŋ ˌdɪs.təns/ | trong khoảng cách đi bộ | The park is within walking distance of my house. (Công viên nằm trong khoảng cách đi bộ từ nhà tôi.) |
+| do exercise | /duː ˈek.sə.saɪz/ | tập thể dục | I do exercise every morning at the park. (Tôi tập thể dục mỗi sáng ở công viên.) |
+| regularly | /ˈreɡ.jə.lə.li/ | thường xuyên | He goes jogging regularly to stay healthy. (Anh ấy thường xuyên chạy bộ để giữ sức khỏe.) |
+| go for a walk | /ɡəʊ fə ə wɔːk/ | đi dạo | I usually go for a walk after dinner. (Tôi thường đi dạo sau bữa tối.) |
+| green space | /ɡriːn speɪs/ | không gian xanh | We need more green space in big cities. (Chúng ta cần nhiều không gian xanh hơn ở thành phố lớn.) |
+| peaceful atmosphere | /ˈpiːs.fəl ˈæt.mə.sfɪə/ | không khí yên bình | I love the peaceful atmosphere in the countryside. (Tôi yêu không khí yên bình ở vùng quê.) |
+| settle down | /ˈset.əl daʊn/ | ổn định cuộc sống | They want to settle down in a quiet town. (Họ muốn ổn định cuộc sống ở một thị trấn yên tĩnh.) |
+| hustle and bustle | /ˌhʌs.əl ənd ˈbʌs.əl/ | sự ồn ào náo nhiệt | She prefers the countryside to the hustle and bustle of the city. (Cô ấy thích vùng quê hơn sự náo nhiệt của thành phố.) |
+| escape from | /ɪˈskeɪp frəm/ | thoát khỏi | I go to the park to escape from stress. (Tôi đến công viên để thoát khỏi căng thẳng.) |
+| take a break | /teɪk ə breɪk/ | nghỉ ngơi | Let’s take a break and go outside. (Hãy nghỉ ngơi và đi ra ngoài.) |
+| relaxing | /rɪˈlæk.sɪŋ/ | thư giãn | Listening to music in the park is very relaxing. (Nghe nhạc trong công viên rất thư giãn.) |
+| amenity | /əˈmiː.nə.ti/ | tiện nghi | The hotel has all modern amenities. (Khách sạn có đầy đủ tiện nghi hiện đại.) |
+| improve the environment | /ɪmˈpruːv ði ɪnˈvaɪ.rən.mənt/ | cải thiện môi trường | Planting more trees helps improve the environment. (Trồng nhiều cây giúp cải thiện môi trường.) |
+| help relieve stress | /help rɪˈliːv stres/ | giúp giảm căng thẳng | Walking in the park can help relieve stress. (Đi bộ trong công viên có thể giúp giảm căng thẳng.) |
+
+
+
+---
+
+## 🏠 IELTS Vocabulary: Home & Accommodation
+
+| Word / Phrase | IPA | Nghĩa (Tiếng Việt) |
+|---------------|-----|--------------------|
+| apartment | /əˈpɑːt.mənt/ | căn hộ |
+| detached house | /dɪˈtætʃt haʊs/ | nhà riêng biệt |
+| semi-detached house | /ˌsem.i dɪˈtætʃt haʊs/ | nhà liền kề (chung tường một bên) |
+| terraced house | /ˈter.əst haʊs/ | nhà liền kề (nguyên dãy) |
+| studio flat | /ˈstjuː.di.oʊ flæt/ | căn hộ một phòng |
+| landlord | /ˈlænd.lɔːd/ | chủ nhà (cho thuê) |
+| tenant | /ˈten.ənt/ | người thuê nhà |
+| rent | /rent/ | tiền thuê |
+| mortgage | /ˈmɔː.ɡɪdʒ/ | khoản vay mua nhà |
+| utility bills | /juːˈtɪl.ə.ti bɪlz/ | hóa đơn tiện ích (điện, nước, gas…) |
+| furnished | /ˈfɜː.nɪʃt/ | có sẵn nội thất |
+| unfurnished | /ʌnˈfɜː.nɪʃt/ | chưa có nội thất |
+| balcony | /ˈbæl.kə.ni/ | ban công |
+| neighborhood | /ˈneɪ.bə.hʊd/ | khu vực lân cận |
+| suburb | /ˈsʌb.ɜːb/ | ngoại ô |
+| downtown | /ˌdaʊnˈtaʊn/ | trung tâm thành phố |
+| household chores | /ˈhaʊs.həʊld tʃɔːrz/ | việc nhà |
+| renovate | /ˈren.ə.veɪt/ | cải tạo, sửa sang |
+| spacious living room | /ˈspeɪ.ʃəs ˈlɪv.ɪŋ ruːm/ | phòng khách rộng rãi |
+| modern facilities | /ˈmɒd.ən fəˈsɪl.ɪ.tiz/ | tiện nghi hiện đại |
+
+---
+<img width="508" height="166" alt="image" src="https://github.com/user-attachments/assets/1d43e8fa-ccc0-4988-991d-4d98d2883d9b" />
+
+---
+
+# Topic: Eating out
+
+| **Vocabulary**      | **IPA**               | **Meaning (Tiếng Việt)**     |
+| ------------------- | --------------------- | ---------------------------- |
+| restaurant          | /ˈrestərənt/          | nhà hàng                     |
+| café                | /ˈkæfeɪ/              | quán cà phê                  |
+| food court          | /ˈfuːd kɔːrt/         | khu ăn uống (trong mall)     |
+| street food         | /ˌstriːt ˈfuːd/       | đồ ăn đường phố              |
+| takeaway / takeout  | /ˈteɪkəweɪ/           | đồ mang đi                   |
+| reservation         | /ˌrezərˈveɪʃn/        | đặt bàn                      |
+| menu                | /ˈmenjuː/             | thực đơn                     |
+| set menu            | /set ˈmenjuː/         | thực đơn cố định             |
+| waiter              | /ˈweɪtər/             | bồi bàn (nam)                |
+| waitress            | /ˈweɪtrəs/            | bồi bàn (nữ)                 |
+| customer            | /ˈkʌstəmər/           | khách hàng                   |
+| order               | /ˈɔːrdər/             | gọi món                      |
+| place an order      | /pleɪs ən ˈɔːrdər/    | đặt món                      |
+| bill / check        | /bɪl/ • /tʃek/        | hóa đơn                      |
+| tip                 | /tɪp/                 | tiền tip                     |
+| service charge      | /ˈsɜːrvɪs tʃɑːrdʒ/    | phí phục vụ                  |
+| appetizer / starter | /ˈæpɪtaɪzər/          | món khai vị                  |
+| main course         | /ˌmeɪn ˈkɔːrs/        | món chính                    |
+| dessert             | /dɪˈzɜːrt/            | món tráng miệng              |
+| side dish           | /ˈsaɪd dɪʃ/           | món phụ                      |
+| buffet              | /bʊˈfeɪ/              | buffet                       |
+| all-you-can-eat     | /ˌɔːl juː kən ˈiːt/   | ăn không giới hạn            |
+| cuisine             | /kwɪˈziːn/            | ẩm thực                      |
+| spicy               | /ˈspaɪsi/             | cay                          |
+| mild                | /maɪld/               | vị nhẹ                       |
+| delicious           | /dɪˈlɪʃəs/            | ngon                         |
+| tasty               | /ˈteɪsti/             | ngon miệng                   |
+| bland               | /blænd/               | nhạt nhẽo                    |
+| crunchy             | /ˈkrʌntʃi/            | giòn                         |
+| soft                | /sɔːft/               | mềm                          |
+| make a reservation  | /meɪk ə ˌrezərˈveɪʃn/ | đặt bàn                      |
+| fully booked        | /ˌfʊli ˈbʊkt/         | hết chỗ                      |
+| available seats     | /əˈveɪləbl siːts/     | ghế trống                    |
+| crowded             | /ˈkraʊdɪd/            | đông đúc                     |
+| atmosphere          | /ˈætməsfɪr/           | không khí, không gian        |
+| dine in             | /daɪn ɪn/             | ăn tại chỗ                   |
+| grab a bite         | /ɡræb ə baɪt/         | kiếm gì ăn nhanh             |
+| signature dish      | /ˈsɪɡnətʃər dɪʃ/      | món đặc trưng/quán nổi tiếng |
+| special offer       | /ˌspeʃl ˈɔːfər/       | khuyến mãi đặc biệt          |
+
+---
+
+# **📌 Vocabulary Table (with IPA & Vietnamese meaning)**
+
+## **1. Talking about food and taste**
+
+| Vocabulary                | IPA                | Meaning (Tiếng Việt) |
+| ------------------------- | ------------------ | -------------------- |
+| **flavor**                | /ˈfleɪvər/         | hương vị             |
+| **ingredients**           | /ɪnˈɡriːdiənts/    | nguyên liệu          |
+| **healthy**               | /ˈhelθi/           | lành mạnh            |
+| **fresh**                 | /freʃ/             | tươi                 |
+| **delicious**             | /dɪˈlɪʃəs/         | ngon                 |
+| **home-cooked food**      | /ˌhoʊm ˈkʊkt fuːd/ | đồ ăn nấu tại nhà    |
+| **takeaway**              | /ˈteɪkəˌweɪ/       | đồ ăn mang đi        |
+| **cuisine**               | /kwɪˈziːn/         | ẩm thực              |
+| **savory** *        | /ˈseɪvəri/         | mặn, đậm đà          |
+| **sweet**         | /swiːt/            | ngọt                 |
+| **spicy**         | /ˈspaɪsi/          | cay                  |
+| **rich (flavor)**  | /rɪtʃ/             | đậm vị, béo          |
+| **bland**          | /blænd/            | nhạt nhẽo            |
+
+---
+
+## **2. Eating habits and preferences**
+
+| Vocabulary                | IPA                     | Meaning (Tiếng Việt)      |
+| ------------------------- | ----------------------- | ------------------------- |
+| **have dinner at home**   | /hæv ˈdɪnər æt hoʊm/    | ăn tối ở nhà              |
+| **eat out**               | /iːt aʊt/               | ăn ở ngoài                |
+| **prepare**               | /prɪˈper/               | chuẩn bị                  |
+| **casual restaurant**     | /ˈkæʒuəl ˈrest(ə)rɑːnt/ | nhà hàng bình dân         |
+| **cook simple meals**     | /kʊk ˈsɪmpəl miːlz/     | nấu những bữa ăn đơn giản |
+| **picky**                 | /ˈpɪki/                 | kén chọn                  |
+| **traditional**           | /trəˈdɪʃənəl/           | truyền thống              |
+| **balanced diet**  | /ˌbælənst ˈdaɪət/       | chế độ ăn cân bằng        |
+| **snack**          | /snæk/                  | đồ ăn nhẹ                 |
+| **vegetarian**     | /ˌvedʒəˈteriən/         | người ăn chay             |
+
+---
+
+## **3. Meal experience**
+
+| Vocabulary                     | IPA                       | Meaning (Tiếng Việt)  |
+| ------------------------------ | ------------------------- | --------------------- |
+| **try new food**               | /traɪ nuː fuːd/           | thử đồ ăn mới         |
+| **celebrate a birthday**       | /ˈseləˌbreɪt ə ˈbɜːrθdeɪ/ | tổ chức sinh nhật     |
+| **romantic**                   | /roʊˈmæntɪk/              | lãng mạn              |
+| **cozy atmosphere**            | /ˈkoʊzi ˈætməsfɪr/        | bầu không khí ấm cúng |
+| **special occasion**           | /ˈspeʃəl əˈkeɪʒən/        | dịp đặc biệt          |
+| **memorable experience**       | /ˈmemərəbəl ɪkˈspɪriəns/  | trải nghiệm đáng nhớ  |
+| **fine dining**         | /faɪn ˈdaɪnɪŋ/            | nhà hàng sang trọng   |
+| **make a reservation**  | /ˌrezərˈveɪʃən/           | đặt bàn               |
+| **signature dish**      | /ˈsɪɡnətʃər dɪʃ/          | món đặc trưng         |
+
+---
+
+
 
