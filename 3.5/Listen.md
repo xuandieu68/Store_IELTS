@@ -260,7 +260,81 @@ semester: kỳ học\
 please be mindful: xin hãy lưu ý, cẩn thận\
 
  
+# unit 5 luyện tập 
 
+
+
+| word                            | mean                                            |
+| ------------------------------- | ----------------------------------------------- |
+| reference number (n):           | mã tham chiếu / mã đặt chỗ                      |
+| insurance (n):                  | bảo hiểm                                        |
+| coverage (n):                   | phạm vi bảo hiểm                                |
+| storage (n):                    | việc lưu trữ                                    |
+| facilities (n):                 | cơ sở vật chất                                  |
+| packing (n):                    | việc đóng gói                                   |
+| glass decorations (n):          | đồ trang trí bằng thủy tinh                     |
+| handle carefully (v):           | xử lý một cách cẩn thận                         |
+| take apart (v):                 | tháo rời                                        |
+| fast delivery (n):              | giao hàng nhanh                                 |
+| vehicle rental (n):             | dịch vụ thuê xe                                 |
+| extra padding (n):              | lớp đệm thêm                                    |
+| bumpy roads (n):                | đường gập ghềnh                                 |
+| long-distance (adj):            | đường dài                                       |
+| security number (n):            | mã bảo mật                                      |
+| assist (v)                      | hỗ trợ , giúp khách hàng                        |
+| receive(v)                      | nhận                                            |
+| truck                           | xe tải                                          |
+| N instead of N                  | N thay vì N                                     |
+| important stuff                 | đồ quan trọng                                   |
+| community (n):                  | cộng đồng                                       |
+| specifically (adv):             | cụ thể là                                       |
+| promising (adj):                | đầy hứa hẹn                                     |
+| tough (adj):                    | khó khăn, khắc nghiệt                           |
+| revive (v):                     | hồi sinh, phục hồi                              |
+| beneficial (adj):               | có lợi                                          |
+| initially (adv):                | ban đầu                                         |
+| passionate (adj):               | đam mê, nhiệt huyết                             |
+| tight budget (np):              | ngân sách eo hẹp                                |
+| step up (v):                    | đảm nhận, nhận trách nhiệm                      |
+| be/get involved in (vp):        | tham gia vào                                    |
+| think outside the box (vp):     | suy nghĩ sáng tạo, khác biệt                    |
+| practical (adj):                | thực tế                                         |
+| hands-on experience (np):       | kinh nghiệm thực tiễn                           |
+| emphasize (v):                  | nhấn mạnh                                       |
+| historical object (n):          | hiện vật lịch sử                                |
+| interactive exhibit (n):        | triển lãm tương tác                             |
+| souvenir (n):                   | đồ lưu niệm                                     |
+| historical background (n):      | bối cảnh lịch sử                                |
+| shipwreck (n):                  | xác tàu đắm                                     |
+| city council (np):              | hội đồng thành phố                              |
+| hard work and dedication (n):   | sự chăm chỉ và tận tâm                          |
+| properly (adv):                 | một cách thích đáng                             |
+| naval strategies (np):          | chiến lược hải quân                             |
+| free admission day (n):         | ngày vào cửa miễn phí                           |
+| marine life (n):                | đời sống biển                                   |
+| sunken warships (np):           | tàu chiến bị chìm                               |
+| painting and sculpture (n):     | tranh vẽ và điêu khắc                           |
+| maritime artist (n):            | nghệ sĩ hàng hải                                |
+| permanent exhibition (n):       | triển lãm cố định                               |
+| appointment (n):                | cuộc hẹn                                        |
+| expert guidance (np):           | hướng dẫn chuyên môn                            |
+| learn their way around (v):     | tìm hiểu cách sử dụng (thư viện, tòa nhà, v.v.) |
+| remain seated (v):              | ngồi yên tại chỗ                                |
+| sessions (n):                   | các buổi (học, trợ giúp, v.v.)                  |
+| scholarly papers (np):          | các bài viết học thuật                          |
+| journals (n):                   | tạp chí học thuật                               |
+| database (n):                   | cơ sở dữ liệu                                   |
+| examine (v):                    | xem xét, kiểm tra kỹ                            |
+| research articles (np):         | bài báo nghiên cứu                              |
+| the majority of (phr):          | phần lớn                                        |
+| integrate (v):                  | tích hợp                                        |
+| demonstrate (v):                | trình bày, minh họa                             |
+| citation (n):                   | trích dẫn                                       |
+| operating hours (np):           | giờ hoạt động                                   |
+| disturb (v):                    | làm phiền                                       |
+| be considerate of others (phr): | tôn trọng người khác                            |
+| feel stuck (v):                 | cảm thấy bế tắc                                 |
+| self-service facilities (np):   | thiết bị tự phục vụ                             |
 
 
 
