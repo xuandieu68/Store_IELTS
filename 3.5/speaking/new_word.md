@@ -287,4 +287,41 @@
 ---
 
 
+# 🎤 **Sample Answer: Describe an outdoor sport that you often play**
+
+The outdoor sport that I often play is **badminton**. It is one of the most popular sports in my country, and I enjoy it a lot.
+
+I usually play badminton at the **school court**, which is quite big and clean. To play this sport, you need a **racket** and a **shuttlecock**. I bought my own equipment because it is more comfortable to use. The rules are very simple: you just hit the shuttlecock over the **net**, and try to make sure the other player cannot return it. Even though it sounds easy, it still requires **quick movements** and **good hand–eye coordination**.
+
+I often play badminton with a **senior student from my department**. He is friendly, patient, and always gives me useful tips to improve my skills. We usually play after class when the weather is nice.
+
+I enjoy this sport for several reasons. First of all, it is very **refreshing** and helps me **relieve stress** after a long day of studying. It also helps me stay **fit and healthy** because it is a great form of **cardio exercise**. Besides, playing with my senior helps us **strengthen our relationship**, and it’s always fun to spend time together.
+
+Overall, badminton is an enjoyable sport for me, and I try to play it regularly whenever I have free time.
+
+---
+
+# 📘 **Vocabulary List (EN → VI)**
+
+| Vocabulary                      | Meaning                     |
+| ------------------------------- | --------------------------- |
+| **badminton**                   | môn cầu lông                |
+| **school court**                | sân trường                  |
+| **racket**                      | vợt                         |
+| **shuttlecock**                 | quả cầu lông                |
+| **net**                         | lưới                        |
+| **quick movements**             | những chuyển động nhanh     |
+| **hand–eye coordination**       | sự phối hợp tay–mắt         |
+| **senior student**              | tiền bối, anh/chị khóa trên |
+| **refreshing**                  | sảng khoái                  |
+| **relieve stress**              | giảm căng thẳng             |
+| **fit and healthy**             | khỏe mạnh                   |
+| **cardio exercise**             | bài tập tim mạch            |
+| **strengthen our relationship** | thắt chặt mối quan hệ       |
+
+---
+
+
+
+
 
