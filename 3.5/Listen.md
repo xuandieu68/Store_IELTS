@@ -1,7 +1,58 @@
-# Unit1 
+#  Lý thuyết và chiến lược làm bài thi IELTS Listening
+### 1. Tổng quan cấu trúc bài thi IELTS Listening
+Bài thi Nghe IELTS bao gồm **40 câu hỏi**, chia thành **4 phần** (mỗi phần 10 câu) với độ khó tăng dần.
+*   **Thời gian:** Khoảng 30 phút nghe và thêm thời gian kiểm tra lại (2 phút nếu thi trên máy hoặc 10 phút để chuyển đáp án nếu thi trên giấy).
+*   **Các phần thi:**
+    *   **Phần 1:** Hội thoại giữa 2 người về các chủ đề đời sống thường ngày (ví dụ: đặt phòng, hỏi thông tin công việc).
+    *   **Phần 2:** Độc thoại giới thiệu về một chương trình, dự án hoặc địa điểm (ví dụ: hướng dẫn viên du lịch, giới thiệu khuôn viên trường).
+    *   **Phần 3:** Hội thoại giữa 2-4 người về chủ đề học thuật (ví dụ: thảo luận bài luận giữa giáo viên và sinh viên).
+    *   **Phần 4:** Một bài giảng chuyên sâu về một chủ đề học thuật (ví dụ: nghiên cứu động vật, lịch sử văn minh).
+
+### 2. Chiến lược làm bài chung (3 bước cốt lõi)
+Dù là dạng bài nào, bạn cũng nên tuân thủ quy trình sau:
+*   **Trước khi nghe:** Xác định giới hạn số chữ được điền, dự đoán loại thông tin (tên, số, danh từ...) và gạch chân các **từ khóa (keywords)**.
+*   **Trong khi nghe:** Tập trung xác định các dấu hiệu chuẩn bị đến nội dung chứa đáp án (dựa trên từ khóa) và nhận diện các thông tin đã được **paraphrase** (diễn đạt bằng cách khác).
+*   **Sau khi nghe:** Kiểm tra lại chính tả, loại từ và đảm bảo không vượt quá giới hạn số chữ cho phép.
+
 ---
 
-# 1. TRAVEL
+### 3. Chiến lược chi tiết cho từng dạng bài
+
+#### A. Dạng bài Điền từ (Completion)
+Dạng này thường xuất hiện dưới hình thức hoàn thành ghi chú, bảng biểu hoặc sơ đồ.
+*   **Lưu ý giới hạn từ:** Đọc kỹ yêu cầu như "Write ONE WORD ONLY" hoặc "NO MORE THAN TWO WORDS AND/OR A NUMBER".
+    *   *Ví dụ:* Nếu đề yêu cầu "one word and/or a number", đáp án có thể là "13 cards".
+    *   *Lưu ý:* Từ có dấu gạch ngang (ví dụ: "well-paid") được tính là **một từ**.
+*   **Từ khóa:** Phân loại từ khóa không thể thay thế (tên riêng, con số) và từ khóa có thể bị thay thế (danh từ chung, động từ, tính từ) để định vị thông tin chính xác.
+
+#### B. Dạng bài Trắc nghiệm (Multiple Choice)
+Có hai hình thức: chọn 1 đáp án đúng hoặc chọn nhiều đáp án đúng.
+*   **Kỹ năng quan trọng:** Nhận diện **yếu tố gây nhiễu (distractors)**. Đây là những thông tin được nhắc đến trong bài nhưng không phải đáp án đúng vì:
+    *   Thông tin bị phủ định ngay sau đó (bởi các từ như "Not really", "However", "Actually", "Instead of").
+    *   Sử dụng thì khác với câu hỏi (ví dụ: dự định trong tương lai thay vì hiện tại).
+*   **Cách làm:** Gạch chân sự khác biệt giữa các lựa chọn để lọc thông tin nhanh chóng khi nghe.
+
+#### C. Dạng bài Dán nhãn Bản đồ (Map Labeling)
+Yêu cầu xác định vị trí của các khu vực hoặc phòng ốc trên một sơ đồ cho sẵn.
+*   **Ngôn ngữ chỉ hướng:** Cần nắm vững các cụm từ chỉ địa điểm (North/South/East/West, opposite, next to, in the corner of) và hướng đi (go straight, take the first left).
+*   **Mẹo làm bài:** Sử dụng **đầu bút hoặc ngón tay** để di chuyển theo hướng dẫn của người nói ngay trên bản đồ để tránh bị lạc hướng. Chú ý các "Signposting words" (từ dẫn đường) như "to begin with", "let’s move to".
+
+#### D. Dạng bài Nối thông tin (Matching)
+Bạn phải nối các câu hỏi với một danh sách các lựa chọn.
+*   **Đặc điểm:** Thứ tự thông tin trong bài nghe thường khớp với thứ tự các câu hỏi, nhưng danh sách lựa chọn sẽ xuất hiện lộn xộn.
+*   **Bẫy phổ biến:** Trong hội thoại (Phần 3), một ý kiến có thể chỉ được một người đồng ý nhưng người kia lại phản đối, hoặc người nói thay đổi quyết định vào phút cuối.
+
+---
+
+### 4. Lưu ý về kỹ năng bổ trợ
+*   **Paraphrasing:** Đây là chìa khóa của IELTS Listening. Bài nghe thường không dùng lại y hệt từ trong đề bài mà dùng từ đồng nghĩa (ví dụ: "abroad" thay cho "international", "help" thay cho "volunteer").
+*   **Kiểm tra đáp án:** Đáp án phải đúng chính tả hoàn toàn. Viết hoa hay viết thường không quá quan trọng, nhưng đúng ngữ pháp (số ít/số nhiều) là bắt buộc.
+
+
+
+---
+# Từ Vựng
+## 1. TRAVEL
 * travel agent (n) đại lý du lịch 
 * book (v) đặt (vé, chỗ, phòng...)
 * holiday package (n):gói kỳ nghỉ 
@@ -59,95 +110,104 @@ species (n) loài (sinh vật)\
 environmental protection: bảo vệ môi trường\
 
 ## other
-announcement (n) thông báo \
-exhibition (n) triển lãm \
-promptly (adv) ngay lập tức,đúng giờ \
-in charge of (adj) chịu trách nhiệm\
-portion (n) phần ăn\
-arrangement (n) sự sắp xếp \
-break room ; phòng nghỉ\
-hourly pay: lương theo giờ\
-cushion: đệm\
-paid holiday: ngày nghỉ có lương \
-shifts: ca làm\
-normal weekdays: ngày bình thường\
-accident: hàng động\
-assistant: tai nạn\
-thoughout: xuyên suốt\
-gloves: bao tay\
-kitchen : nhà bếp\
-occasionally: thình thoảng\
-preparing ingredients\
-in advance: trước đó\
-Mediterranean: Địa trung hải\
-require: yêu cầu, băt buộc\
-purpose: mục đích\
- field trip: chuyến đi thực địa\
- coordinator: người tổ chức, điều hành\
-upcoming: sắp tới\
-vegetarian: chay, rau\
- ingredients : nguyên liệu\
-ignoring: \
-lounge area: khu vực sảnh chờ\
+| Từ / Cụm từ           | Nghĩa tiếng Việt         |
+| --------------------- | ------------------------ |
+| announcement          | thông báo                |
+| exhibition            | triển lãm                |
+| promptly              | ngay lập tức, đúng giờ   |
+| in charge of          | chịu trách nhiệm         |
+| portion               | khẩu phần / phần ăn      |
+| arrangement           | sự sắp xếp               |
+| break room            | phòng nghỉ               |
+| hourly pay            | lương theo giờ           |
+| cushion               | đệm                      |
+| paid holiday          | ngày nghỉ có lương       |
+| shifts                | ca làm                   |
+| normal weekdays       | ngày thường              |
+| accident              | tai nạn                  |
+| assistant             | trợ lý                   |
+| throughout            | xuyên suốt               |
+| gloves                | bao tay                  |
+| kitchen               | nhà bếp                  |
+| occasionally          | thỉnh thoảng             |
+| preparing ingredients | chuẩn bị nguyên liệu     |
+| in advance            | trước đó                 |
+| Mediterranean         | Địa Trung Hải            |
+| require               | yêu cầu, bắt buộc        |
+| purpose               | mục đích                 |
+| field trip            | chuyến đi thực địa       |
+| coordinator           | người tổ chức, điều phối |
+| upcoming              | sắp tới                  |
+| vegetarian            | ăn chay                  |
+| ingredients           | nguyên liệu              |
+| ignoring              | phớt lờ, bỏ qua          |
+| lounge area           | khu vực sảnh chờ         |
+
 
 ---
 # Unit 3
-## Ngôn ngữ chỉ địa điểm
-North/ South/ East/ West : bắc/ nam / đông / tây\
-in the northeast : nằm hướng đông bắc\
- in the southwest  nằm hướng tây nam\
-in the west corner : nằm ở góc phía tây 
-corner : góc\
-to the north/ to the west : về phía bắc/ về phía Tây\
-in the eastern part of :nằm ở khu vực phía đông của\
-slightly west of : hới lệch về phía tây của
 
-on the left/ on the right /on the left hand side/ on the right hand side : nằm phía tay trái hoặc tay phải 
 
-above/ below: bên trên/ bên dưới \
-in the center of / in the middle of : ngay giữa \
-in the corner of: nằm trong góc của \
-inside/ outside :bên trong/ bên ngoài \
-just past : vừa đi qua \
-next to/ next door/ beside: kế bên \
-opposite / across the street / on the other side of the street : đối diện \
-in front of/ behind : ngay phía trước/ ngay phía sau\ 
-between A and B: nằm giữa A and B \
-crossroad / intersection : ngã tư, giao \
-T-junction : ngã ba\ 
-bend: đường cong / ngã rẽ  / khúc cua
+### 1. Bảng ngôn ngữ chỉ hướng (Directional Language)
 
-## Ngôn ngữ chỉ hướng đi
-* take the first/ second/ third left/ right 
-*take the first/ second/ third bend on the right/ left  : rẽ trái/ phải ở ngã rẽ thứ nhất/ hai/ ba 
-*on your left/ on your right 
-*on your left-hand side/ on your right-hand side: bên trái/ bên phải của bạn 
 
-## LOCATION 
-complex (n) khu phức hợp\
-reception (n) khu lễ tân\
-cloakroom (n) phòng giữ đồ\
-corridor (n) hành lang\
-cafeteria (n) quán ăn tự phục vụ, căng tin\
-lounge (n) phòng chờ, phòng nghỉ\
-premise (n) cơ sở, khuôn viên\
-Lecture theatre: \
-Self-study room\
-Administration office: văn phòng hành chính\
+#### A. Ngôn ngữ chỉ địa điểm (Location)
+| Tiếng Anh | Tiếng Việt |
+| :--- | :--- |
+| **North/ South/ East/ West** | Bắc/ Nam/ Đông/ Tây |
+| **In the northeast/ in the southwest** | Nằm hướng Đông Bắc/ hướng Tây Nam |
+| **In the west corner** | Nằm ở góc phía tây |
+| **To the north/ to the west** | Về phía Bắc/ về phía Tây |
+| **In the eastern part of** | Nằm ở khu vực phía Đông của |
+| **Slightly west of** | Hơi về phía tây của |
+| **On the left/ on the right (hand side)** | Nằm bên phía tay trái hoặc tay phải |
+| **Above/ below** | Bên trên/ bên dưới |
+| **In the center of / in the middle of** | Ngay giữa |
+| **In the corner of** | Nằm trong góc của |
+| **Inside/ outside** | Bên trong/ bên ngoài |
+| **Just past** | Vừa đi qua |
+| **Next to/ next door/ beside** | Kế bên |
+| **Opposite / across the street** | Đối diện |
+| **In front of/ behind** | Ngay phía trước/ ngay phía sau |
+| **Between A and B** | Nằm giữa A và B |
+| **Crossroad / intersection** | Ngã tư |
+| **T-junction** | Ngã ba |
+| **Bend** | Đường cong / ngã rẽ / khúc cua |
 
-## OTHERS
-sign up (for) (v) đăng ký (tham gia)\
-rent (v) thuê \
-session (n) buổi (học,họp)\
-flexibility (n) sự linh hoạt \
-facility (n) cơ sở vật chất \
-stationery (n) văn phòng phẩm\
-branded (adj) có thương hiệu\
-merchandise (n) hàng hóa \
-assure (v) đảm bảo, cam đoan\
-orientation (n) buổi định hướng\
-swimming pool: hồ bơi\
-coat: áo khoác\
+#### B. Ngôn ngữ chỉ hướng đi (Direction of travel)
+| Tiếng Anh | Tiếng Việt |
+| :--- | :--- |
+| **Go down/ Take x street/ road** | Đi vào đường x |
+| **Go straight/ along x street/ road** | Đi dọc theo đường x |
+| **Take the first/ second/ third left/ right** | Rẽ trái/ phải ở ngã rẽ thứ nhất/ hai/ ba |
+| **Take the first/ second/ third bend** | Rẽ ở khúc cua thứ nhất/ hai/ ba |
+| **On your left/ right (hand side)** | Bên trái/ bên phải của bạn |
+
+---
+
+### 2. Bảng từ vựng theo chủ đề (Themed Vocabulary)
+
+| Chủ đề | Từ vựng | Ý nghĩa |
+| :--- | :--- | :--- |
+| **LOCATION** | **Complex** (n) | Khu phức hợp |
+| | **Reception** (n) | Khu lễ tân |
+| | **Cloakroom** (n) | Phòng giữ đồ (áo khoác, túi xách) |
+| | **Corridor** (n) | Hành lang |
+| | **Cafeteria** (n) | Quán ăn tự phục vụ, căng tin |
+| | **Intersection** (n) | Ngã tư, giao lộ |
+| | **Lounge** (n) | Phòng chờ, phòng nghỉ |
+| | **Premise** (n) | Cơ sở, khuôn viên |
+| **OTHERS** | **Sign up (for)** (v) | Đăng ký (tham gia) |
+| | **Rent** (v) | Thuê |
+| | **Session** (n) | Buổi (học, họp...) |
+| | **Flexibility** (n) | Sự linh hoạt |
+| | **Facility** (n) | Cơ sở vật chất |
+| | **Stationery** (n) | Văn phòng phẩm |
+| | **Branded** (adj) | Có thương hiệu |
+| | **Merchandise** (n) | Hàng hóa |
+| | **Assure** (v) | Đảm bảo, cam đoan |
+| | **Orientation** (n) | Buổi định hướng |
+
 
 ---
 # Unit 4 - dạng bài nối thông tin
@@ -170,94 +230,98 @@ plates : đĩa\
 
 ## OTHERS
 
-usage (n) việc sử dụng\
-correct usage : cách dùng đúng\
-available (for) (adj) sẵn có (cho)\
-access (v) truy cập \
- account: tài khoản\
-specific (adj) cụ thể\
-availability (n) tình trạng sẵn có \
-register (v) đăng ký \
-build up (v) tăng dần, tích lũy \
-peak hour (n) giờ cao điểm\
-overflown (adj) bị tràn, quá tải \
-sort (v) phân loại \
-proper (adj) đúng cách, phù hợp\
-efficiently (adv) một cách hiệu quả \
-keep track of (v) theo dõi \
-layout (n) bố cục, cách bố trí \
-grocery (n) tạp hóa, hàng tạp phẩm\
-walk around : di chuyển\
-bin: thùng rác\
-trash : rác\
-heavy Traffic : tắc nghẽn giao thông\
-carry: mang\
-Discount store: cửa hàng giảm giá\
-Convenience store: của hàng tiện lợi\
-High-end grocery store : của hàng cao cấp\
-free-flow : dòng chảy tự do\
-circular layout : bố cục hình tròn\
-straight-line: đường thẳng\
-storage: kho \
-triangle: tam giác \
-absolutely : thực ra\
-alright then: được thôi\
-that sounds perfect: oke\
-flip though it again : xem lại lần nữa\
-decide: quyết định\
-**definite**: chắc chắn\
-include : chọn, lựa chọn \
-cramped : nhỏ, chật hẹp\
-tiny : nhỏ xíu\
-nature-inspired vibe : cảm giác lấy cảm hứng từ thiên nhiên\
-high-quality: chất lượng cao\
-spacious: rộng rãi\
-overprice: định giá quá cao\
-Descriptions : mô tả \
-atmosphere: bầu không khí\
-hang out : đi chơi\
-decoration : trang trí \
-furniture : đồ nội thất\ 
-skeptical: nghi ngờ \
-cozy: ấm cúng\
-let's figure : hãy tìm hiểu \
-audience : khán giả \
-i get that : tôi hiểu mà\
-adolescence: thời thanh thiếu niên \
-identity: danh tính \
-it's a shame  :thật đáng tiếc\
-potatoes: khoai tây\
-smoothly(adv): mượt mà\
-empty : đổ \
-overflow: đầy\
-attention/ pay attention to : chú ý/ chú ý đến \
-recycling : việc tái chế\
-to avoid : tránh \
-make sure to + V : chắc chắn, đảm bảo làm gì \
-mop (v): lau dọn\
-piority : ưu tiên \
-afford to : chịu đựng , chịu nổi 
-handle: xử lý \
-supplies: vật tư \
-facing forward: hướng ra phía trước\
-expiry dates: ngày hết hạn\
-rely on you: dựa vào bạn\
-pace: nhịp độ\
-overwhelming: quá tải \
-keep up: tiếp tục cố gắng, theo kịp\
-equipment: thiết bị\
-schoolwork: công việc học tập\
-private space: không gian riêng tư \
-accommodate: đáp ứng \
-charging stations: trạm sạc\
-charging spot: điểm sạc\
-timer: bộ đém thời gian\
-counting down: giảm dần\
-reaches zero: đếm ngược về 0\
-unplug: rút ( dây sạc)\
-remind to: nhắc nhở\
-semester: kỳ học\
-please be mindful: xin hãy lưu ý, cẩn thận\
+| Từ / Cụm từ            | Nghĩa tiếng Việt                     |
+| ---------------------- | ------------------------------------ |
+| usage                  | việc sử dụng                         |
+| correct usage          | cách dùng đúng                       |
+| available (for)        | sẵn có (cho)                         |
+| access                 | truy cập                             |
+| account                | tài khoản                            |
+| specific               | cụ thể                               |
+| availability           | tình trạng sẵn có                    |
+| register               | đăng ký                              |
+| build up               | tăng dần, tích lũy                   |
+| peak hour              | giờ cao điểm                         |
+| overflown              | bị tràn, quá tải                     |
+| sort                   | phân loại                            |
+| proper                 | đúng cách, phù hợp                   |
+| efficiently            | một cách hiệu quả                    |
+| keep track of          | theo dõi                             |
+| layout                 | bố cục, cách bố trí                  |
+| grocery                | hàng tạp hóa                         |
+| walk around            | di chuyển                            |
+| bin                    | thùng rác                            |
+| trash                  | rác                                  |
+| heavy traffic          | tắc nghẽn giao thông                 |
+| carry                  | mang                                 |
+| discount store         | cửa hàng giảm giá                    |
+| convenience store      | cửa hàng tiện lợi                    |
+| high-end grocery store | cửa hàng tạp hóa cao cấp             |
+| free-flow              | dòng chảy tự do                      |
+| circular layout        | bố cục hình tròn                     |
+| straight-line          | đường thẳng                          |
+| storage                | kho                                  |
+| triangle               | tam giác                             |
+| absolutely             | thực ra / hoàn toàn                  |
+| alright then           | được thôi                            |
+| that sounds perfect    | ổn đó / nghe rất hợp                 |
+| flip through it again  | xem lại lần nữa                      |
+| decide                 | quyết định                           |
+| definite               | chắc chắn                            |
+| include                | bao gồm / lựa chọn                   |
+| cramped                | chật hẹp                             |
+| tiny                   | nhỏ xíu                              |
+| nature-inspired vibe   | cảm giác lấy cảm hứng từ thiên nhiên |
+| high-quality           | chất lượng cao                       |
+| spacious               | rộng rãi                             |
+| overprice              | định giá quá cao                     |
+| descriptions           | mô tả                                |
+| atmosphere             | bầu không khí                        |
+| hang out               | đi chơi                              |
+| decoration             | trang trí                            |
+| furniture              | đồ nội thất                          |
+| skeptical              | nghi ngờ                             |
+| cozy                   | ấm cúng                              |
+| let’s figure (it out)  | hãy tìm hiểu                         |
+| audience               | khán giả                             |
+| I get that             | tôi hiểu mà                          |
+| adolescence            | tuổi thanh thiếu niên                |
+| identity               | danh tính / bản sắc                  |
+| it’s a shame           | thật đáng tiếc                       |
+| potatoes               | khoai tây                            |
+| smoothly               | mượt mà                              |
+| empty                  | đổ / làm trống                       |
+| overflow               | đầy / tràn                           |
+| attention              | sự chú ý                             |
+| pay attention to       | chú ý đến                            |
+| recycling              | việc tái chế                         |
+| avoid                  | tránh                                |
+| make sure to + V       | đảm bảo làm gì                       |
+| mop                    | lau dọn                              |
+| priority               | ưu tiên                              |
+| afford to              | có khả năng chi trả / chịu được      |
+| handle                 | xử lý                                |
+| supplies               | vật tư                               |
+| facing forward         | hướng ra phía trước                  |
+| expiry dates           | ngày hết hạn                         |
+| rely on you            | dựa vào bạn                          |
+| pace                   | nhịp độ                              |
+| overwhelming           | quá tải                              |
+| keep up                | theo kịp                             |
+| equipment              | thiết bị                             |
+| schoolwork             | việc học                             |
+| private space          | không gian riêng tư                  |
+| accommodate            | đáp ứng                              |
+| charging stations      | trạm sạc                             |
+| charging spot          | điểm sạc                             |
+| timer                  | bộ đếm thời gian                     |
+| counting down          | đếm ngược                            |
+| reaches zero           | về 0                                 |
+| unplug                 | rút (dây sạc)                        |
+| remind to              | nhắc nhở                             |
+| semester               | học kỳ                               |
+| please be mindful      | xin hãy lưu ý                        |
+
 
  
 # unit 5 luyện tập 
