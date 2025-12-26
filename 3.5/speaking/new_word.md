@@ -286,6 +286,97 @@
 
 ---
 
+## 🌟 Topic: Celebrities – Extended Vocabulary
+
+### 1️⃣ Personal feelings about celebrities
+
+| Word / Phrase                 | IPA                            | Nghĩa tiếng Việt      |
+| ----------------------------- | ------------------------------ | --------------------- |
+| **admire** (v)                | /ədˈmaɪər/                     | ngưỡng mộ             |
+| **be a big fan of**           | /biː ə bɪɡ fæn əv/             | là fan hâm mộ lớn     |
+| **look up to** (phr.v)        | /lʊk ʌp tuː/                   | kính trọng, ngưỡng mộ |
+| **role model** (n)            | /rəʊl ˈmɒd.əl/                 | hình mẫu lý tưởng     |
+| **icon** (n)                  | /ˈaɪ.kɒn/                      | biểu tượng            |
+| **well-respected** (adj)      | /ˌwel rɪˈspek.tɪd/             | được tôn trọng        |
+| **inspire** (v)               | /ɪnˈspaɪər/                    | truyền cảm hứng       |
+| **influential** (adj)         | /ˌɪn.fluˈen.ʃəl/               | có sức ảnh hưởng      |
+| **make a good impression**    | /meɪk ə ɡʊd ɪmˈpreʃ.ən/        | tạo ấn tượng tốt      |
+| **have a strong personality** | /hæv ə strɒŋ ˌpɜː.sənˈæl.ə.ti/ | có cá tính mạnh       |
+
+---
+
+### 2️⃣ Fame and popularity
+
+| Word / Phrase                | IPA                            | Nghĩa tiếng Việt                  |
+| ---------------------------- | ------------------------------ | --------------------------------- |
+| **celebrity** (n)            | /səˈleb.rə.ti/                 | người nổi tiếng                   |
+| **talented** (adj)           | /ˈtæl.ən.tɪd/                  | tài năng                          |
+| **well-known** (adj)         | /ˌwelˈnəʊn/                    | nổi tiếng                         |
+| **become famous**            | /bɪˈkʌm ˈfeɪ.məs/              | trở nên nổi tiếng                 |
+| **go viral**                 | /ɡəʊ ˈvaɪ.rəl/                 | lan truyền nhanh                  |
+| **get a lot of attention**   | /ɡet ə lɒt əv əˈten.ʃən/       | nhận nhiều chú ý                  |
+| **in the spotlight**         | /ɪn ðə ˈspɒt.laɪt/             | ở trung tâm chú ý                 |
+| **get recognized in public** | /ɡet ˈrek.əɡ.naɪzd/            | được nhận ra nơi công cộng        |
+| **huge fan base**            | /hjuːdʒ fæn beɪs/              | lượng fan lớn                     |
+| **social media presence**    | /ˈsəʊ.ʃəl ˈmiː.di.ə ˈprez.əns/ | mức độ xuất hiện trên mạng xã hội |
+
+---
+
+### 3️⃣ Celebrity problems
+
+| Word / Phrase                | IPA                              | Nghĩa tiếng Việt          |
+| ---------------------------- | -------------------------------- | ------------------------- |
+| **lose privacy**             | /luːz ˈprɪv.ə.si/                | mất quyền riêng tư        |
+| **private life** (n)         | /ˈpraɪ.vət laɪf/                 | đời sống riêng tư         |
+| **be followed by paparazzi** | /biː ˈfɒl.əʊd baɪ ˌpæp.əˈræt.si/ | bị săn ảnh theo dõi       |
+| **under pressure**           | /ˈʌn.də ˈpreʃ.ər/                | chịu áp lực               |
+| **face public criticism**    | /feɪs ˈpʌb.lɪk ˈkrɪt.ɪ.sɪ.zəm/   | đối mặt chỉ trích         |
+| **lack personal freedom**    | /læk ˈpɜː.sən.əl ˈfriː.dəm/      | thiếu tự do cá nhân       |
+| **media attention**          | /ˈmɪə.di.ə əˈten.ʃən/            | sự chú ý của truyền thông |
+
+---
+
+### 4️⃣ Useful phrases for IELTS Speaking Part 2 (Celebrities)
+
+| Phrase                                              | Meaning                           |
+| --------------------------------------------------- | --------------------------------- |
+| **Today I’m going to talk about…**                  | Hôm nay tôi sẽ nói về…            |
+| **If my memory serves me right…**                   | Nếu tôi nhớ không nhầm…           |
+| **I first knew about this person when…**            | Tôi biết người này lần đầu khi…   |
+| **What makes this person special is that…**         | Điều khiến người này đặc biệt là… |
+| **There are several reasons why I admire him/her…** | Có vài lý do tôi ngưỡng mộ…       |
+| **I truly admire and look up to this person**       | Tôi thực sự ngưỡng mộ người này   |
+
+
+
+
+----
+
+#  Sports 
+
+| Word / Phrase         | IPA                     | Nghĩa tiếng Việt      |
+| --------------------- | ----------------------- | --------------------- |
+| **exercise routine**  | /ˈek.sə.saɪz ruːˈtiːn/  | thói quen tập luyện   |
+| **work out**          | /wɜːk aʊt/              | tập thể dục           |
+| **stay in shape**     | /steɪ ɪn ʃeɪp/          | giữ dáng, giữ thể lực |
+| **keep fit**          | /kiːp fɪt/              | giữ cơ thể khỏe mạnh  |
+| **do cardio**         | /duː ˈkɑː.di.əʊ/        | tập tim mạch          |
+| **strength training** | /streŋθ ˈtreɪ.nɪŋ/      | tập sức mạnh          |
+| **go jogging**        | /ɡəʊ ˈdʒɒɡ.ɪŋ/          | chạy bộ               |
+| **hit the gym**       | /hɪt ðə dʒɪm/           | đi tập gym            |
+| **warm up**           | /wɔːm ʌp/               | khởi động             |
+| **cool down**         | /kuːl daʊn/             | thả lỏng sau khi tập  |
+| **break a sweat**     | /breɪk ə swet/          | toát mồ hôi           |
+| **build muscle**      | /bɪld ˈmʌs.əl/          | xây dựng cơ bắp       |
+| **burn calories**     | /bɜːn ˈkæl.ər.iːz/      | đốt cháy calo         |
+| **boost energy**      | /buːst ˈen.ə.dʒi/       | tăng năng lượng       |
+| **relieve stress**    | /rɪˈliːv stres/         | giảm căng thẳng       |
+| **stay active**       | /steɪ ˈæk.tɪv/          | duy trì vận động      |
+| **physical health**   | /ˈfɪz.ɪ.kəl helθ/       | sức khỏe thể chất     |
+| **on a daily basis**  | /ɒn ə ˈdeɪ.li ˈbeɪ.sɪs/ | hằng ngày             |
+| **regularly**         | /ˈreɡ.jə.lə.li/         | thường xuyên          |
+| **take a break**      | /teɪk ə breɪk/          | nghỉ giải lao         |
+
 
 # 🎤 **Sample Answer: Describe an outdoor sport that you often play**
 
@@ -318,6 +409,77 @@ Overall, badminton is an enjoyable sport for me, and I try to play it regularly 
 | **fit and healthy**             | khỏe mạnh                   |
 | **cardio exercise**             | bài tập tim mạch            |
 | **strengthen our relationship** | thắt chặt mối quan hệ       |
+
+
+---
+
+# ✈️ Topic: Traveling 
+
+### 1️⃣ Travel people and places
+
+| Word / Phrase              | IPA                           | Nghĩa tiếng Việt    |
+| -------------------------- | ----------------------------- | ------------------- |
+| **destination** (n)        | /ˌdes.tɪˈneɪ.ʃən/             | điểm đến            |
+| **travel buddy** (n)       | /ˈtræv.əl ˈbʌd.i/             | bạn đồng hành       |
+| **tourist attraction** (n) | /ˈtʊə.rɪst əˈtræk.ʃən/        | điểm du lịch        |
+| **popular destination**    | /ˈpɒp.jə.lər ˌdes.tɪˈneɪ.ʃən/ | điểm đến nổi tiếng  |
+| **famous landmark**        | /ˈfeɪ.məs ˈlænd.mɑːk/         | địa danh nổi tiếng  |
+| **coastal city**           | /ˈkəʊ.stəl ˈsɪt.i/            | thành phố ven biển  |
+| **historic site**          | /hɪˈstɒr.ɪk saɪt/             | địa điểm lịch sử    |
+| **city center**            | /ˈsɪt.i ˈsen.tər/             | trung tâm thành phố |
+
+### 2️⃣ Travel experiences and feelings
+
+| Word / Phrase                | IPA                        | Nghĩa tiếng Việt     |
+| ---------------------------- | -------------------------- | -------------------- |
+| **relaxing** (adj)           | /rɪˈlæk.sɪŋ/               | thư giãn             |
+| **crowded** (adj)            | /ˈkraʊ.dɪd/                | đông đúc             |
+| **travel alone**             | /ˈtræv.əl əˈləʊn/          | du lịch một mình     |
+| **travel in a group**        | /ˈtræv.əl ɪn ə ɡruːp/      | du lịch theo nhóm    |
+| **eye-opening** (adj)        | /ˈaɪˌəʊ.pən.ɪŋ/            | mở mang tầm mắt      |
+| **widen my horizons**        | /ˈwaɪ.dən maɪ həˈraɪ.zənz/ | mở rộng tầm nhìn     |
+| **memorable trip**           | /ˈmem.ər.ə.bəl trɪp/       | chuyến đi đáng nhớ   |
+| **unforgettable experience** | /ˌʌn.fəˈɡet.ə.bəl/         | trải nghiệm khó quên |
+| **feel refreshed**           | /fiːl rɪˈfreʃt/            | cảm thấy sảng khoái  |
+
+
+### 3️⃣ Travel activities
+
+| Word / Phrase            | IPA                       | Nghĩa tiếng Việt       |
+| ------------------------ | ------------------------- | ---------------------- |
+| **explore** (v)          | /ɪkˈsplɔːr/               | khám phá               |
+| **go sightseeing**       | /ɡəʊ ˈsaɪtˌsiː.ɪŋ/        | đi ngắm cảnh           |
+| **try local food**       | /traɪ ˈləʊ.kəl fuːd/      | thử món địa phương     |
+| **holiday activities**   | /ˈhɒl.ɪ.deɪ ækˈtɪv.ə.tiz/ | hoạt động kỳ nghỉ      |
+| **admire the view**      | /ədˈmaɪər ðə vjuː/        | ngắm cảnh              |
+| **visit museums**        | /ˈvɪz.ɪt mjuːˈzɪəmz/      | tham quan bảo tàng     |
+| **take photos**          | /teɪk ˈfəʊ.təʊz/          | chụp ảnh               |
+| **walk around the city** | /wɔːk əˈraʊnd/            | đi dạo quanh thành phố |
+
+
+### 4️⃣ Culture, food, and nature
+
+| Word / Phrase            | IPA                        | Nghĩa tiếng Việt       |
+| ------------------------ | -------------------------- | ---------------------- |
+| **culture** (n)          | /ˈkʌl.tʃər/                | văn hóa                |
+| **local cuisine** (n)    | /ˈləʊ.kəl kwɪˈziːn/        | ẩm thực địa phương     |
+| **traditional food**     | /trəˈdɪʃ.ən.əl fuːd/       | món ăn truyền thống    |
+| **adventure** (n)        | /ədˈven.tʃər/              | chuyến phiêu lưu       |
+| **breathtaking scenery** | /ˈbreθˌteɪ.kɪŋ ˈsiː.nər.i/ | phong cảnh ngoạn mục   |
+| **natural beauty**       | /ˈnætʃ.ər.əl ˈbjuː.ti/     | vẻ đẹp thiên nhiên     |
+| **peaceful atmosphere**  | /ˈpiːs.fəl ˈæt.mə.sfɪər/   | bầu không khí yên bình |
+
+
+
+### 5️⃣ Useful expressions for IELTS Speaking
+
+| Expression                          | Nghĩa                         |
+| ----------------------------------- | ----------------------------- |
+| **on my bucket list**               | trong danh sách điều muốn làm |
+| **a perfect place to relax**        | nơi lý tưởng để thư giãn      |
+| **I had a chance to…**              | tôi có cơ hội để…             |
+| **What impressed me the most was…** | điều gây ấn tượng nhất là…    |
+| **I would love to visit again**     | tôi rất muốn quay lại         |
 
 ---
 
